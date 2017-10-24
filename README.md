@@ -29,7 +29,7 @@ Nesta aplicação foi usado o pacote do repositorio nuget EntityFramework, assim
 Ainda é preciso configurar uma connection string no arquivo web.config. 
 A conection string utilizada:
 
-<<connectionStrings>
+<connectionStrings>
       <add name="EmployeeLocal"
       connectionString="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=DesafioLuizaLabs; Integrated Security=True;"
       providerName="System.Data.SqlClient"/>
